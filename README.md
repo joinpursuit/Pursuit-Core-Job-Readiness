@@ -1,6 +1,6 @@
-## Job Readiness Guide
+# Job Readiness Guide
 
-# Here are the criteria for a Fellow to be certified as "job-ready":
+## Here are the criteria for a Fellow to be certified as "job-ready":
 
 * Proficient on 85% of Non-DSA Technical Mastery (TM) standards
 * Proficient on 85% of DSA standards
