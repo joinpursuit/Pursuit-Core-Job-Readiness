@@ -12,4 +12,4 @@
 * Proficient on Behavioral Interview rubric
 * No red flags in other soft skills (communication, attendance, teamwork)
 
- https://docs.google.com/presentation/d/1TXSdsdw4owuAJgllmy3lw3_5c8Bdo4mNe6XmEfs5QpM/edit#slide=id.g57317447a4_0_0
+| Job Readiness Guide | [Slides](https://docs.google.com/presentation/d/1TXSdsdw4owuAJgllmy3lw3_5c8Bdo4mNe6XmEfs5QpM/edit#slide=id.g57317447a4_0_0) |
