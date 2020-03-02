@@ -38,11 +38,11 @@ We highly encourage Fellows to record their whiteboarding interview via Quicktim
 If the Fellow is unable to make the scheduled time, they can switch with another Fellow who’s already scheduled up to 48 hours in advance. If a Fellow is a no-show for the interview or reschedules last minute for any reason, they will not be rescheduled for at least two weeks.
 
 ### Recording lateness/no-shows
-Check with the Program Manager (or whoever is responsible that day for checking in Fellows to their interviews) to record attendance. If a Fellow is “Late”, “No Show with Communication”, or “No Show Without Communication", this is considered a potential red flag toward job readiness. 
+Fellows will check in with the Program Manager (or whoever is responsible that day for checking in Fellows to their interviews) to record attendance. If a Fellow is “Late”, “No Show with Communication”, or “No Show Without Communication", this is considered a potential red flag toward job readiness. 
 
 ### Sharing Feedback to Fellows
-Fellows will receive feedback within 3 working days of the interview.
-For "pass": Fellow will receive a summary of feedback from their Lead Instructor in writing via email (not slack). A Fellow may also follow up with the lead instructor in person.
+For all Fellows: Fellow will receive a summary of qualitative feedback from their Lead Instructor in writing via email (not slack). 
+For those who "pass": A Fellow may also follow up with their Lead Instructor in person.
 For "needs prctice in key areas": Lead instructor and Fellow will schedule a 20 minute debrief where the Lead Instructor shares a summary of feedback from the interviewer and discuss: 
 * How did you think it went? 
 * Where did you struggle? Where did you do well? 
@@ -57,16 +57,16 @@ After Fellows receive qualitative feedback from the interviewers, they should co
 ### Interview format
 Fellows will have 45 minutes for their mock interview with a volunteer. Prepare for this as a real interview, including how you dress, and how you research the company and role. Fellows will be assessed along the updated [link] Behavioral Interview rubric.
  
-## Scheduling interviews
+### Scheduling interviews
 Program Managers will sign up Fellows who are ready for mock behavioral interviews every two weeks. Contact the PM via email to confirm the date, time, location and relevant job description for interview. Fellows will be scheduled if they’ve practiced Behavioral Interviews with the PM already and have scored “proficient” across the rubric.  
 
-## Rescheduling Interviews
+### Rescheduling Interviews
 If the Fellow is unable to make the scheduled time, they can switch with another Fellow who’s already scheduled up to 48 hours in advance. If a Fellow needs to reschedule last minute for any reason, they need to contact their Program Manager as soon as possible. If a Fellow is a no-show for the interview or reschedules last minute for any reason, they will not be rescheduled for at least two weeks.
 
-## Recording lateness/no-shows
-Check with the Program Manager (or whoever is responsible that day for checking in Fellows to their interviews) to record attendance. If a Fellow is “Late”, “No Show with Communication”, or “No Show Without Communication", this is considered a potential red flag toward job readiness. 
+### Recording lateness/no-shows
+Fellows will check in with the Program Manager (or whoever is responsible that day for checking in Fellows to their interviews) to record attendance. If a Fellow is “Late”, “No Show with Communication”, or “No Show Without Communication", this is considered a potential red flag toward job readiness. 
 
-## Passing Interviews
+### Passing Interviews
 To pass the Behavioral Interview, Fellows must:
 (1) score proficient or above on the following rubric items:
 * Pop Pitch (tell me about yourself)
@@ -82,9 +82,6 @@ To pass the Behavioral Interview, Fellows must:
 ### Recording Interviews 
 We highly encourage Fellows to record their whiteboarding interview via Quicktime on their laptops so that they can watch their interview and share it with instructors for further feedback. Please keep videos and mock interview questions private for equitability across all Fellows. 
 
-## Sharing Feedback to Fellows
-
-
 ### Sharing Feedback to Fellows
 Fellows will receive their results within 3 working days of the interview.
 For all Fellows: Fellow will receive a summary of qualitative feedback from their Program Manager in writing via email (not slack). 
@@ -94,13 +91,13 @@ For those "not proficient on key areas": PM and Fellow will schedule a 20 minute
 * Where did you struggle? Where did you do well? 
 * How will you keep practicing?
 
-## Re-assessing Behavioral Interviews
+### Re-assessing Behavioral Interviews
 After Fellows receive qualitative feedback following the interview and debrief, they will need to scheduled at least 1 additional practice round with their PM or another volunteer, and practice independently for a minimum of 1 week.
 Volunteer and tech recruiter Melanie Lahti will be available to support Fellows through her virtual office hours EVERY Thursday. Fellows can sign up here to work with her. They should identify 2 BIQs they need help with and send them to Melanie in the calendly link prior to the meeting. 
 
-## Timeliness and Professionalism of Fellows 
+### Timeliness and Professionalism of Fellows 
 Timeliness and professionalism (clothing choice, writing utensils/paper, resume) have been flagged as important by employer partners. The certifying interviews are an opportunity for Fellows to practice professionalism during an end to end experience. 
-PMs will be checking in all Fellows for their interview). During the check in, PMs will note the following in the Check in document for all Fellows:
+Program Managers will be checking in all Fellows for their interview). During the check in, PMs will note the following in the Check in document for all Fellows:
 
 * Timeliness 
 * Appropriate dress (neat and tidy, no suit)
