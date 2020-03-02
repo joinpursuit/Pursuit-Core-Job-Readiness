@@ -41,7 +41,7 @@ If the Fellow is unable to make the scheduled time, they can switch with another
 Fellows will check in with the Program Manager (or whoever is responsible that day for checking in Fellows to their interviews) to record attendance. If a Fellow is “Late”, “No Show with Communication”, or “No Show Without Communication", this is considered a potential red flag toward job readiness. 
 
 ### Sharing Feedback to Fellows
-For all Fellows: Fellow will receive a summary of qualitative feedback from their Lead Instructor in writing via email (not slack). 
+For all Fellows: Fellow will receive a summary of qualitative feedback from their Lead Instructor in writing via email. 
 
 For those who "pass": A Fellow may also follow up with their Lead Instructor in person.
 
@@ -87,7 +87,7 @@ We highly encourage Fellows to record their whiteboarding interview via Quicktim
 ### Sharing Feedback to Fellows
 Fellows will receive their results within 3 working days of the interview.
 
-For all Fellows: Fellow will receive a summary of qualitative feedback from their Program Manager in writing via email (not slack). 
+For all Fellows: Fellow will receive a summary of qualitative feedback from their Program Manager in writing via email. 
 
 For those who "pass": A Fellow may also follow up with the PM in person.
 
