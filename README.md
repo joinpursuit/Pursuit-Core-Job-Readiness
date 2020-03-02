@@ -93,7 +93,7 @@ For those "not proficient on key areas": PM and Fellow will schedule a 20 minute
 
 ### Re-assessing Behavioral Interviews
 After Fellows receive qualitative feedback following the interview and debrief, they will need to scheduled at least 1 additional practice round with their PM or another volunteer, and practice independently for a minimum of 1 week.
-Volunteer and tech recruiter Melanie Lahti will be available to support Fellows through her virtual office hours EVERY Thursday. Fellows can sign up here to work with her. They should identify 2 BIQs they need help with and send them to Melanie in the calendly link prior to the meeting. 
+Volunteer and tech recruiter Melanie Lahti will be available to support Fellows through her virtual office hours EVERY Thursday. Fellows can sign up [here](https://calendly.com/melanielahti/pursuit?back=1&month=2020-03) to work with her. They should identify 2 BIQs they need help with and send them to Melanie in the calendly link prior to the meeting. 
 
 ### Timeliness and Professionalism of Fellows 
 Timeliness and professionalism (clothing choice, writing utensils/paper, resume) have been flagged as important by employer partners. The certifying interviews are an opportunity for Fellows to practice professionalism during an end to end experience. 
