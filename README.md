@@ -106,4 +106,14 @@ Program Managers will be checking in all Fellows for their interview). During th
 ## Resumes, LinkedIn, Cover Letters
 All resumes, LinkedIn profiles and cover letters will be assessed by Program Managers based on the relevant [rubrics](https://docs.google.com/document/d/119-wkCGEiGjR8iqf74Fys2BVRopvATN2nTKiOgbx6F4) with all scores updated in Canvas ongoing.
 
+## Professionalism Red Flags
+In addition to meeting the requirements for technical and professional certifications, Fellows must also show consistent professional behavior. Professionalism red flags include, but are not limited to: 
 
+* consistent tardiness/absences, 
+* unprofessional communication, 
+* major struggles with teamwork. 
+
+Fellows who fail to show consistent professionalism will be placed on an Performance Improvement Plan (PIP) of approximately 2-4 weeks to demonstrate improved professionalism, including completing any necessary actions (resubmission of projects, direct conversation with parties involved in conflict, etc.). Failure to demonstrate improvements will result in a separation.
+
+## Certification!  
+When a Fellow is fully job certified, they'll receive an email from the Program team outlining next steps to transition to the employment team. 
