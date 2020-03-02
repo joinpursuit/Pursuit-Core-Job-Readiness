@@ -16,6 +16,8 @@ All 6.0 Fellows must meet the following technical and professional skills readin
 
 | Job Readiness Guide | [Slides](https://docs.google.com/presentation/d/1TXSdsdw4owuAJgllmy3lw3_5c8Bdo4mNe6XmEfs5QpM/edit#slide=id.g57317447a4_0_0) |
 
-| Portfolio | [Web] (https://canvas.instructure.com/courses/1605748/assignments/13825524) | [iOS](https://canvas.instructure.com/courses/1605734/assignments/13825432#)
+| Portfolio | 
+
+| [Web] (https://canvas.instructure.com/courses/1605748/assignments/13825524) | [iOS](https://canvas.instructure.com/courses/1605734/assignments/13825432#) |
 
 
