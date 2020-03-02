@@ -19,6 +19,8 @@ All 6.0 Fellows must meet the following technical and professional skills readin
 
 ## Portfolio
 
+The criteria for a Fellow to have portfolio-ready projects are below:
+
 [Web](https://canvas.instructure.com/courses/1605748/assignments/13825524)
 | [iOS](https://canvas.instructure.com/courses/1605734/assignments/13825432#)
 
