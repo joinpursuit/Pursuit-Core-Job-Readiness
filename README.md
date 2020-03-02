@@ -104,6 +104,6 @@ Program Managers will be checking in all Fellows for their interview). During th
 * Materials: copy of resume and writing utensil/paper
 
 ## Resumes, LinkedIn, Cover Letters
-All resumes, LinkedIn profiles and cover letters will be assessed by Program Managers based on the relevant [rubrics] (https://docs.google.com/document/d/119-wkCGEiGjR8iqf74Fys2BVRopvATN2nTKiOgbx6F4) with all scores updated in Canvas ongoing.
+All resumes, LinkedIn profiles and cover letters will be assessed by Program Managers based on the relevant [rubrics](https://docs.google.com/document/d/119-wkCGEiGjR8iqf74Fys2BVRopvATN2nTKiOgbx6F4) with all scores updated in Canvas ongoing.
 
 
