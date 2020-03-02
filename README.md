@@ -42,7 +42,9 @@ Fellows will check in with the Program Manager (or whoever is responsible that d
 
 ### Sharing Feedback to Fellows
 For all Fellows: Fellow will receive a summary of qualitative feedback from their Lead Instructor in writing via email (not slack). 
+
 For those who "pass": A Fellow may also follow up with their Lead Instructor in person.
+
 For "needs prctice in key areas": Lead instructor and Fellow will schedule a 20 minute debrief where the Lead Instructor shares a summary of feedback from the interviewer and discuss: 
 * How did you think it went? 
 * Where did you struggle? Where did you do well? 
@@ -84,8 +86,11 @@ We highly encourage Fellows to record their whiteboarding interview via Quicktim
 
 ### Sharing Feedback to Fellows
 Fellows will receive their results within 3 working days of the interview.
+
 For all Fellows: Fellow will receive a summary of qualitative feedback from their Program Manager in writing via email (not slack). 
+
 For those who "pass": A Fellow may also follow up with the PM in person.
+
 For those "not proficient on key areas": PM and Fellow will schedule a 20 minute debrief where the PM shares a summary of feedback from the interviewer and discuss: 
 * How did you think it went? 
 * Where did you struggle? Where did you do well? 
