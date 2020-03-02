@@ -18,7 +18,7 @@ All 6.0 Fellows must meet the following technical and professional skills readin
 
 ## Portfolio
 
-| [Web](https://canvas.instructure.com/courses/1605748/assignments/13825524)
-| [iOS](https://canvas.instructure.com/courses/1605734/assignments/13825432#) 
+[Web](https://canvas.instructure.com/courses/1605748/assignments/13825524)
+| [iOS](https://canvas.instructure.com/courses/1605734/assignments/13825432#) |
 
 
