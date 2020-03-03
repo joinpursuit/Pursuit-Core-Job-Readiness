@@ -42,6 +42,12 @@ If the Fellow is unable to make the scheduled time, they can switch with another
 ### Recording lateness/no-shows
 Fellows will check in with the Program Manager (or whoever is responsible that day for checking in Fellows to their interviews) to record attendance. If a Fellow is “Late”, “No Show with Communication”, or “No Show Without Communication", this is considered a potential red flag toward job readiness. 
 
+### Passing Interviews
+To pass the Technical Interview, Fellows must:
+(1) score proficient or above on 14 of the 15 subcategories in the Technical Interview Rubric, and
+
+(2) not score "Not Demonstrated on any of the 15 subcategories. 
+
 ### Sharing Feedback to Fellows
 For all Fellows: Fellow will receive a summary of qualitative feedback from their Lead Instructor in writing via email. 
 
