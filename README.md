@@ -44,6 +44,7 @@ Fellows will check in with the Program Manager (or whoever is responsible that d
 
 ### Passing Interviews
 To pass the Technical Interview, Fellows must:
+
 (1) score proficient or above on 14 of the 15 subcategories in the Technical Interview Rubric, and
 
 (2) not score "Not Demonstrated on any of the 15 subcategories. 
