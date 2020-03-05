@@ -21,8 +21,7 @@
 
 ##### The criteria for a Fellow to have portfolio-ready projects are below:
 
-##### [Web](https://canvas.instructure.com/courses/1605748/assignments/13825524)
-##### | [iOS](https://canvas.instructure.com/courses/1605734/assignments/13825432#)
+##### [Web](https://canvas.instructure.com/courses/1605748/assignments/13825524) | [iOS](https://canvas.instructure.com/courses/1605734/assignments/13825432#)
 
 ## Certifying Technical Interviews
 
